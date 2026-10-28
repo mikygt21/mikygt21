@@ -40,6 +40,16 @@
 
 🔗 <a href="https://github.com/mikygt21/MecanicaFW_2223.git">**Git Repo** </a>
 
+### Tic Tac Toe
+💻 C++
+🖌 SFML 3.0
+
+- Classic game against AI
+- 3 difficulty levels
+- Development focused on following SOLID principles
+
+🔗 <a href="https://github.com/mikygt21/TicTacToe.git">**Git Repo** </a>
+
 ---
 
 ## 🛠️ Languages, Engines & Tools
